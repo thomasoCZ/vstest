@@ -1,0 +1,60 @@
+// Colors 
+
+$color1: #1850af;
+$color2: #0a043c;
+
+$color3: lighten(#cad4ea, 10%);
+
+$color4: #365899;
+
+$color5: #cad4ea;
+
+// Fonts
+
+$font-heading: 'Titillium Web', sans-serif;
+$font-base: 'Roboto', sans-serif;
+
+
+// Hero
+
+$hero-slide-overlay-opacity: 0.3;
+
+$hero-image-overlay-opacity: 0.5;
+
+
+// Section
+
+
+$section-mobile-padding: 60px 0;
+
+$section-padding: 100px 0;
+
+
+// Transitions 
+
+$link-transition-time: 0.3s; 
+
+
+// Responsive breakpoints @media (min-width: $sm-min)
+
+
+$xs-max: 320px;
+
+$xs-min: $xs-max+1;
+
+
+$sm-max: 767px;
+
+$sm-min: $sm-max+1;
+
+
+
+$md-max: 1023px;
+
+$md-min: $md-max+1;
+
+
+$lg-max: 1200px;
+
+$lg-min: $lg-max+1;
+
